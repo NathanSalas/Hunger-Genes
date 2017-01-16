@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/magemissile.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/StrengthPowerUp.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Unbreakable.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/64x64.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Ub2.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Floor.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/StandardBlockTS.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Unbreakable2D.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SingleSB.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SlashSpriteSheet.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Mage.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Mage16.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Mage8.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/magemissile4816.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Rogue.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Rogue8.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Rogue16.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Brute.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Brute16.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SmashSpriteSheet.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SmashSpriteSheet8016.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SmashSpriteSheet16020.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SlashSpriteSheetR.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/GoalFloor.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/Rogue32.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/DetailFont.spritefont</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SingleSBHealthPU.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SingleSBPowerPU.png</File>
+    <File>C:/Users/nathan/Documents/Visual Studio 2015/Projects/Game1/Game1/Content/SingleSBSpeedPU.png</File>
+  </SourceFiles>
+</SourceFileCollection>
