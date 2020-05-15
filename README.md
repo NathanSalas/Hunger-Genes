@@ -1,6 +1,6 @@
 # Hunger-Genes
 
-Final project for Computer science degree. A game that uses genetic algorithms to control the non-player opponents.
+A game that uses genetic algorithms to control the non-player opponents.
 
 Makes use of the Monogame framework (https://www.monogame.net/)
 
